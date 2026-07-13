@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "weight-of-color",
+    "file": "weight-of-color.md",
+    "title": "The *Weight* of Color",
+    "excerpt": "Color is never just color. It is weight, temperature, distance, time. A red that sits on the surface of a page is not the same red that recedes into it.",
+    "author": "Eleanor Voss",
+    "date": "2026-07-09",
+    "category": "Color",
+    "readTime": 6,
+    "glyph": "◐",
+    "tags": ["color", "design", "perception", "craft"]
+  },
+  {
+    "slug": "quiet-power-of-serifs",
+    "file": "quiet-power-of-serifs.md",
+    "title": "On the *Quiet Power* of Serifs",
+    "excerpt": "A serif is not a decoration. It is an argument — a small, structural claim about how the eye moves across a line of text, and why that motion matters.",
+    "author": "Eleanor Voss",
+    "date": "2026-07-08",
+    "category": "Typography",
+    "readTime": 7,
+    "glyph": "&",
+    "tags": ["typography", "serif", "reading", "craft"]
+  },
+  {
+    "slug": "grids-and-invisible-structure",
+    "file": "grids-and-invisible-structure.md",
+    "title": "Grids and *Invisible* Structure",
+    "excerpt": "A grid is not a cage. It is a skeleton — the invisible structure that holds a layout upright, that gives it posture, that lets it stand without effort.",
+    "author": "Marcus Lindqvist",
+    "date": "2026-06-30",
+    "category": "Layout",
+    "readTime": 8,
+    "glyph": "▦",
+    "tags": ["layout", "grid", "structure", "composition"]
+  },
+  {
+    "slug": "designing-in-the-margins",
+    "file": "designing-in-the-margins.md",
+    "title": "Designing in the *Margins*",
+    "excerpt": "Whitespace is not the absence of design. It is the part of design that does the listening — the room a layout leaves for thought to arrive.",
+    "author": "Eleanor Voss",
+    "date": "2026-06-22",
+    "category": "Layout",
+    "readTime": 5,
+    "glyph": "¶",
+    "tags": ["layout", "whitespace", "composition", "craft"]
+  },
+  {
+    "slug": "when-two-typefaces-meet",
+    "file": "when-two-typefaces-meet.md",
+    "title": "When Two *Typefaces* Meet",
+    "excerpt": "Pairing typefaces is an act of translation. You are asking two different voices to speak in the same room, to carry the same meaning, to feel like they belong to the same conversation.",
+    "author": "Eleanor Voss",
+    "date": "2026-06-10",
+    "category": "Typography",
+    "readTime": 7,
+    "glyph": "Ag",
+    "tags": ["typography", "typeface-pairing", "design", "hierarchy"]
+  },
+  {
+    "slug": "letterforms-we-forget",
+    "file": "letterforms-we-forget.md",
+    "title": "The *Letterforms* We Forget",
+    "excerpt": "Every letter you read today was carved by someone, refined by someone else, and quietly handed down through five centuries of revision. A short history of what we stopped noticing.",
+    "author": "Marcus Lindqvist",
+    "date": "2026-05-30",
+    "category": "History",
+    "readTime": 9,
+    "glyph": "Æ",
+    "tags": ["typography", "history", "letters", "type-design"]
+  },
+  {
+    "slug": "detail-is-the-design",
+    "file": "detail-is-the-design.md",
+    "title": "The *Detail* Is the Design",
+    "excerpt": "The detail is not the decoration. It is the design itself — the sum of a thousand small decisions, each one invisible, all of them felt.",
+    "author": "Marcus Lindqvist",
+    "date": "2026-05-15",
+    "category": "Process",
+    "readTime": 6,
+    "glyph": "※",
+    "tags": ["craft", "detail", "process", "finish"]
+  },
+  {
+    "slug": "building-slowly-on-purpose",
+    "file": "building-slowly-on-purpose.md",
+    "title": "Building *Slowly*, on Purpose",
+    "excerpt": "The fastest way to make something good is usually to make it slowly. An argument against velocity as a virtue, and for the discipline of staying with a problem.",
+    "author": "Eleanor Voss",
+    "date": "2026-04-14",
+    "category": "Process",
+    "readTime": 6,
+    "glyph": "§",
+    "tags": ["process", "craft", "patience", "studio"]
+  },
+ {
+    "slug": "are-you-ok?",
+    "file": "Are-you-ok.md",
+    "title": "The *Weight* of Color",
+    "excerpt": "Oh,it's a try.",
+    "author": "Eleanor Voss",
+    "date": "2026-07-09",
+    "category": "Color",
+    "readTime": 6,
+    "glyph": "◐",
+    "tags": ["color", "design", "perception", "craft"]
+  }
+]
