@@ -1,9 +1,0 @@
-{
-  "name": "the-marginalia",
-  "version": "1.0.0",
-  "description": "A quiet journal on typography, design craft, and the slow art of making things well.",
-  "scripts": {
-    "serve": "node scripts/serve.js 2>nul || python scripts/serve.py"
-  },
-  "private": true
-}
